@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAPICallDemo</string>
+    <string name="por_favor_aguarde">Por favor aguarde...</string>
+    <string name="teste_de_chamada_de_api">Teste de chamada de API</string>
+</resources>
